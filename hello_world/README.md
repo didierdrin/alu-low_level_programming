@@ -1,1 +1,1 @@
-README.md for the hello_world directory 
+This contains basic c programming projects
