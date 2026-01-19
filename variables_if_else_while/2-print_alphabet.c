@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ * main - entry point
+*/
+
 int main(void)
 {
 	char letter = 'a';
@@ -9,6 +13,7 @@ int main(void)
 		putchar(letter);
 		letter++;
 	}
+	putchar('\n');
 	return (0);
 }
 
