@@ -5,7 +5,7 @@ int main(void)
 	char letter = 'a';
 	while (letter <= 'z')
 	{
-		printf("%c\n", letter);
+		putchar(letter);
 		letter++;
 	}
 	return (0);
