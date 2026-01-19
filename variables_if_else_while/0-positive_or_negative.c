@@ -8,11 +8,11 @@ int main() {
     n = rand() - RAND_MAX / 2; 
 
     if (n < 0 ) {
-        printf("This is a negative number");
+        printf("%d is negative", n);
     } else if ( n > 0) {
-        printf("This is a positive number");
+        printf("%d is positive", n);
     } else {
-        printf("This is zero");
+        printf("%d is zero", n);
     }
 
     return 0; 
