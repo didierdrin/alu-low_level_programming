@@ -1,1 +1,1 @@
-// if statements and loops 
+This repo contains C programming code snippets. 
